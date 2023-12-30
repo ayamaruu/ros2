@@ -1,0 +1,2 @@
+Invoking command in '/home/aya/.ssh/ros2/mypkg/person_msgs/build/person_msgs': CMAKE_PREFIX_PATH=/home/aya/ros2_ws/install/mkpkg:/opt/ros/humble /usr/bin/cmake /home/aya/.ssh/ros2/mypkg/person_msgs -DCMAKE_INSTALL_PREFIX=/home/aya/.ssh/ros2/mypkg/person_msgs/install/person_msgs
+Invoked command in '/home/aya/.ssh/ros2/mypkg/person_msgs/build/person_msgs' returned '1': CMAKE_PREFIX_PATH=/home/aya/ros2_ws/install/mkpkg:/opt/ros/humble /usr/bin/cmake /home/aya/.ssh/ros2/mypkg/person_msgs -DCMAKE_INSTALL_PREFIX=/home/aya/.ssh/ros2/mypkg/person_msgs/install/person_msgs
