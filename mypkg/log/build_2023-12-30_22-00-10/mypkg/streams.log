@@ -1,0 +1,26 @@
+[0.403s] Invoking command in '/home/aya/.ssh/ros2/mypkg': PYTHONPATH=/home/aya/.ssh/ros2/mypkg/build/mypkg/prefix_override:/home/aya/.ssh/ros2/mypkg/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/aya/.ssh/ros2/mypkg/build/mypkg/build install --record /home/aya/.ssh/ros2/mypkg/build/mypkg/install.log --single-version-externally-managed
+[0.525s] running egg_info
+[0.526s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[0.526s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.526s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[0.526s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[0.526s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[0.527s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.528s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.528s] running build
+[0.528s] running build_py
+[0.529s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.529s]   warnings.warn(
+[0.529s] running install
+[0.529s] running install_lib
+[0.530s] running install_data
+[0.530s] copying package.xml -> /home/aya/.ssh/ros2/mypkg/install/mypkg/share/mypkg
+[0.530s] copying launch/talk_listen.launch.py -> /home/aya/.ssh/ros2/mypkg/install/mypkg/share/mypkg
+[0.530s] running install_egg_info
+[0.532s] removing '/home/aya/.ssh/ros2/mypkg/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.532s] Copying build/mypkg/mypkg.egg-info to /home/aya/.ssh/ros2/mypkg/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info
+[0.533s] running install_scripts
+[0.546s] Installing listener script to /home/aya/.ssh/ros2/mypkg/install/mypkg/lib/mypkg
+[0.547s] Installing talker script to /home/aya/.ssh/ros2/mypkg/install/mypkg/lib/mypkg
+[0.547s] writing list of installed files to '/home/aya/.ssh/ros2/mypkg/build/mypkg/install.log'
+[0.565s] Invoked command in '/home/aya/.ssh/ros2/mypkg' returned '0': PYTHONPATH=/home/aya/.ssh/ros2/mypkg/build/mypkg/prefix_override:/home/aya/.ssh/ros2/mypkg/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/aya/.ssh/ros2/mypkg/build/mypkg/build install --record /home/aya/.ssh/ros2/mypkg/build/mypkg/install.log --single-version-externally-managed
